@@ -2,6 +2,6 @@ package array;
 
 public class TwoSum {
     static void main() {
-        System.out.println("hssssh");
+        System.out.println("hsssssh");
     }
 }
