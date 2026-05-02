@@ -27,6 +27,7 @@ public class DeleteElement {
         int arr[]={33,56,78,9,45,36,56,79,12,13,14,48,68};
         int n=36;
         ram(arr,n);
+
     }
 
 }
